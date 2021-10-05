@@ -1,0 +1,10 @@
+Repo: https://github.com/luchina-gabriel/GIGABYTE-B460M-ELITE-i9-10900-ES-UHD-630-ONLY
+
+Mobo: 	https://pt.aliexpress.com/item/1005003071770619.html
+CPU:	https://pt.aliexpress.com/item/4001111543481.html
+Mem:	https://pt.aliexpress.com/item/4000107844787.html
+SSD:	https://pt.aliexpress.com/item/32847113544.html
+PSU:	Corsair CV650
+WC:		Water Cooler Gamemax L240T White
+Case:	DeepCool Macube 110 Preto
+
