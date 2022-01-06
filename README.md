@@ -2,13 +2,14 @@
 
 ![About This Mac - General](https://user-images.githubusercontent.com/23700365/136068125-df272a62-863c-4754-a2ec-c2cba7097d08.png)
 
-**Latest working macOS**: 12.0
+**Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.5
+**Current OpenCore**: 0.7.6
 
 ## Complete hardware specs
-- Intel i9 10900 ES (Engineer Sample)
+- Intel i9 10900 ES (Engineer Sample / QTB1)
 - Gigabyte B460M Aorus Elite
+- Realtek® ALC1200 codec
 - iGPU Intel UHD 630
 - WC Gamemax L240T white
 - 2x 8Gb DDR4 2666Mhz Juhor
