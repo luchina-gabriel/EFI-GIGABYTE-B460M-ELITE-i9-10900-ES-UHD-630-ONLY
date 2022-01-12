@@ -4,7 +4,7 @@
 
 **Latest working macOS**: 12.1
 <br>
-**Current OpenCore**: 0.7.6
+**Current OpenCore**: 0.7.7
 
 ## Complete hardware specs
 - Intel i9 10900 ES (Engineer Sample / QTB1)
@@ -45,3 +45,5 @@
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [BASE EFI - for 10th Intel Gen - Comet Lake](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-10THGEN-COMET-LAKE)
 
+## Discord - Universo Hackintosh
+- [Access Discord](https://discord.universohackintosh.com.br)
